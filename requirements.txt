@@ -1,0 +1,7 @@
+streamlit
+requests
+feedparser
+openpyxl
+beautifulsoup4
+lxml
+gspread
